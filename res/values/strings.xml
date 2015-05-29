@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="billAmtTV">Bill Amt</string>
+    <string name="billAmtET">0.0</string>
+    <string name="tipAmtTV">Tip Amt</string>
+	<string name="tipAmtET">0.10</string>
+    <string name="finalBillTV">Final Amt</string>
+    
+    <string name="typeTV">Type</string>
+    <string name="friendlyTV">Friendly</string>
+    <string name="opinionsTV">Opinions</string>
+    
+    <string name="foodTV">Food</string>
+    <string name="goodFoodTV">Good</string>
+    <string name="okFoodTV">OK</string>
+    <string name="averageFoodTV">Average</string>
+    
+    
+</resources>
